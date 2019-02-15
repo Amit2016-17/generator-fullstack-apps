@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "RoSoft",
+      "authorEmail": "developer@rosoftware.ro",
+      "authorUrl": ""
+    }
+  }
+}
