@@ -1,6 +1,16 @@
 # generator-fullstack-apps [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > A yeoman generator for fullstack apps
 
+This generator combines full stacks at your choice:
+Backend:
+- Node
+- Python
+- Laravel
+Froentend:
+- React
+- Vue
+- jQuery
+
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-fullstack-apps using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
